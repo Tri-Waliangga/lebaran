@@ -1,0 +1,14 @@
+body, html {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+body::-webkit-scrollbar { 
+  display: none;
+}
+
+.bg {
+  background-image: url(../img/4301.jpg) !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
